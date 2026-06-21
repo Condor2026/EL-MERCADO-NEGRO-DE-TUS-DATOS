@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Ciberseguridad+para+humanos;Phishing+%7C+Ingenier%C3%ADa+social;OSINT+%7C+Protecci%C3%B3n+digital;Andr%C3%B3meda+%5BPrivado%5D;Nebula+%5BP%C3%BAblico%5D;Tu+datos+no+los+roba+un+hacker;Los+roba+un+sistema" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=CONDOR2026+%7C+Ciberseguridad+para+humanos;Phishing+%7C+Ingenier%C3%ADa+social;OSINT+%7C+Protecci%C3%B3n+digital;Contrase%C3%B1as+%7C+2FA+%7C+Malware;Estafas+financieras+%7C+Doxxing;Respuesta+a+incidentes+%7C+OpSec;Tu+datos+no+los+roba+un+hacker;Los+roba+un+sistema" alt="Typing animation" />
 </p>
 
 ---
