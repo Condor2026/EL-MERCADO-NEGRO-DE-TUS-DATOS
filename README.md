@@ -182,3 +182,23 @@ El autor, **Condor2026**, **NO SE HACE RESPONSABLE** del mal uso que terceros pu
 ### 📌 Atribución Condor2026 – "Ciberseguridad para humanos" (2026)
 Licencia CC BY-NC-ND 4.0
 Disponible en: [[URL de GitHub]](https://github.com/Condor2026/EL-MERCADO-NEGRO-DE-TUS-DATOS)
+
+---
+
+## 🏆 Proyecto en crecimiento
+
+<div align="center">
+
+**⭐ Si te ha gustado, ¡dale una estrella al repositorio!**
+
+[![GitHub stars](https://img.shields.io/github/stars/Condor2026/ciberseguridad-para-humanos?style=social)](https://github.com/Condor2026/EL-MERCADO-NEGRO-DE-TUS-DATOS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Condor2026/ciberseguridad-para-humanos?style=social)](https://github.com/Condor2026/EL-MERCADO-NEGRO-DE-TUS-DATOS/network/members)
+
+</div>
+
+---
+
+<p align="center">
+  <strong>Condor2026 – Ciberseguridad para humanos</strong><br>
+  <em>"El mejor firewall eres tú cuando sabes cómo piensa el otro lado."</em>
+</p>
