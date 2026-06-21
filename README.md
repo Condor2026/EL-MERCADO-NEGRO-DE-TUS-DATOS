@@ -206,9 +206,9 @@ Este proyecto no existiría sin:
 
 | Canal | Detalle |
 |-------|---------|
-| 🐙 **GitHub** | [tu-usuario] |
-| 🐦 **X / Twitter** | [@tu-usuario] |
-| ✉️ **Email** | [tu-email@dominio.com] |
+| 🐙 **GitHub** | Condor2026 |
+| 🐦 **X / Twitter** | [Proximamente] |
+
 
 ---
 
