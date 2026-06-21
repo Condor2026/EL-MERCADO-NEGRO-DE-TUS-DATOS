@@ -19,7 +19,7 @@
 
 ### *"Tus datos no los roba un hacker genial. Los roba un sistema. Y hoy vas a aprender cómo funciona."*
 
-**[🔐 Ver módulos](#📚-módulos-disponibles)** • **[📖 Empezar a leer](#-qué-es-esto)** • **[📄 Licencia](#-licencia)**
+**[📚 Ver módulos](#📚-módulos-disponibles)** • **[📖 Empezar a leer](#-qué-es-esto)** • **[📄 Licencia](#-licencia)**
 
 </div>
 
@@ -28,8 +28,6 @@
 ## 📌 ¿Qué es esto?
 
 **Ciberseguridad para humanos** es una serie de módulos educativos diseñados para **personas normales**, no para técnicos. Explicado en español, con ejemplos reales, historias de víctimas y acciones concretas que puedes aplicar hoy.
-
-La ciberseguridad no es un tema de "gente de sistemas". Es un tema de **supervivencia digital**. Y cualquier persona, sin importar su nivel técnico, puede aprender a protegerse.
 
 ---
 
@@ -51,6 +49,7 @@ La ciberseguridad no es un tema de "gente de sistemas". Es un tema de **superviv
 
 | # | Módulo | Descripción | Estado |
 |---|--------|-------------|--------|
+| **0** | [El mercado negro de tus datos](modulo-0-introduccion/) | Cómo roban, venden y compran tus credenciales | ✅ Publicado |
 | **1** | [Phishing: manual avanzado de prevención](modulo-1-phishing/) | Correos, SMS, QR y llamadas | ✅ Publicado |
 | **2** | [Ingeniería social: el arte de la confianza robada](modulo-2-ingenieria-social/) | Cómo te manipulan sin hackear | ✅ Publicado |
 | **3** | [Tu huella digital: lo que ven ellos y tú no ves](modulo-3-huella-digital/) | Qué información pública hay de ti | ✅ Publicado |
@@ -60,32 +59,31 @@ La ciberseguridad no es un tema de "gente de sistemas". Es un tema de **superviv
 | **7** | [Cómo educar a tu familia sin asustarlos](modulo-7-educar-familia/) | Protege a los que quieres | ✅ Publicado |
 | **8** | [Guía de respuesta a incidentes](modulo-8-respuesta-incidentes/) | Qué hacer cuando ya ha pasado | ✅ Publicado |
 | **9** | [Estafas de call center](modulo-9-call-center/) | Cuando el peligro te llama | ✅ Publicado |
-| **10** | [El mercado negro de tus datos](modulo-10-mercado-negro/) | Cómo roban, venden y compran tus credenciales | ✅ Publicado |
-| **11** | [Cómo piensa un estafador](modulo-11-ingenieria-social-avanzada/) | Ingeniería social para ciudadanos | ✅ Publicado |
-| **12** | [Tu vida en internet](modulo-12-vida-en-internet/) | Lo que ven ellos y tú no ves | ✅ Publicado |
-| **13** | [Contraseñas y 2FA](modulo-13-contrasenas-2fa/) | La llave de tu reino | ✅ Publicado |
-| **14** | [Estafas financieras y de inversión](modulo-14-estafas-financieras/) | Cuando tu dinero desaparece | ✅ Publicado |
+| **10** | [Cómo piensa un estafador](modulo-10-ingenieria-social-avanzada/) | Ingeniería social para ciudadanos | ✅ Publicado |
+| **11** | [Tu vida en internet](modulo-11-vida-en-internet/) | Lo que ven ellos y tú no ves | ✅ Publicado |
+| **12** | [Contraseñas y 2FA](modulo-12-contrasenas-2fa/) | La llave de tu reino | ✅ Publicado |
+| **13** | [Estafas financieras y de inversión](modulo-13-estafas-financieras/) | Cuando tu dinero desaparece | ✅ Publicado |
 
 ### 🔴 Serie Analista (Investigación y Acción)
 
 | # | Módulo | Descripción | Estado |
 |---|--------|-------------|--------|
-| **15** | [El espectro del analista](modulo-15-analista-oscuro/) | De sombras a cristal | ✅ Publicado |
-| **16** | [Observar sin tocar](modulo-16-osint-pasivo/) | OSINT pasivo para documentar delitos | ✅ Publicado |
-| **17** | [De la rabia a la denuncia](modulo-17-denuncia/) | Cómo convertir evidencia en justicia | ✅ Publicado |
-| **18** | [El vigilante institucional](modulo-18-colaborar/) | Colaborar sin quemarte | ✅ Publicado |
-| **19** | [Cuidar al cuidador](modulo-19-salud-mental/) | Salud mental para analistas | ✅ Publicado |
-| **20** | [Inteligencia distribuida](modulo-20-inteligencia-distribuida/) | Multiplicar impacto sin multiplicar riesgo | ✅ Publicado |
+| **14** | [El espectro del analista](modulo-14-analista-oscuro/) | De sombras a cristal | ✅ Publicado |
+| **15** | [Observar sin tocar](modulo-15-osint-pasivo/) | OSINT pasivo para documentar delitos | ✅ Publicado |
+| **16** | [De la rabia a la denuncia](modulo-16-denuncia/) | Cómo convertir evidencia en justicia | ✅ Publicado |
+| **17** | [El vigilante institucional](modulo-17-colaborar/) | Colaborar sin quemarte | ✅ Publicado |
+| **18** | [Cuidar al cuidador](modulo-18-salud-mental/) | Salud mental para analistas | ✅ Publicado |
+| **19** | [Inteligencia distribuida](modulo-19-inteligencia-distribuida/) | Multiplicar impacto sin multiplicar riesgo | ✅ Publicado |
 
 ### ⚪ Próximos módulos (en desarrollo)
 
 | # | Módulo | Estado |
 |---|--------|--------|
-| **21** | Seguridad para autónomos y pymes | 🚧 En desarrollo |
-| **22** | Protección de menores en juegos online | 🚧 En desarrollo |
-| **23** | Cómo usar Tor sin paranoia | 🚧 En desarrollo |
-| **24** | Criptomonedas seguras para principiantes | 🚧 En desarrollo |
-| **25** | Privacidad en el móvil | 🚧 En desarrollo |
+| **20** | Seguridad para autónomos y pymes | 🚧 En desarrollo |
+| **21** | Protección de menores en juegos online | 🚧 En desarrollo |
+| **22** | Cómo usar Tor sin paranoia | 🚧 En desarrollo |
+| **23** | Criptomonedas seguras para principiantes | 🚧 En desarrollo |
+| **24** | Privacidad en el móvil | 🚧 En desarrollo |
 
 ---
 
@@ -109,7 +107,7 @@ La ciberseguridad no es un tema de "gente de sistemas". Es un tema de **superviv
 ## 🚀 Cómo usar este material
 
 ### 📖 Lectura individual
-1. Empieza por el **Módulo 1** si eres principiante.
+1. Empieza por el **Módulo 0** si eres principiante.
 2. Salta al tema que te interese si ya tienes base.
 3. Haz los **ejercicios prácticos** al final de cada módulo.
 
@@ -181,64 +179,6 @@ El autor, **Condor2026**, **NO SE HACE RESPONSABLE** del mal uso que terceros pu
 - **NoComercial** — No puedes usar este material con fines comerciales.
 - **SinDerivadas** — No puedes modificar, transformar o crear a partir del material.
 
-### 📌 Atribución sugerida
-```
-Condor2026 – "Ciberseguridad para humanos" (2026)
+### 📌 Atribución Condor2026 – "Ciberseguridad para humanos" (2026)
 Licencia CC BY-NC-ND 4.0
-Disponible en: [URL de GitHub]
-```
-
----
-
-## 🙏 Agradecimientos
-
-Este proyecto no existiría sin:
-
-- **INCIBE** – Instituto Nacional de Ciberseguridad de España
-- **ENISA** – Agencia de la UE para la Ciberseguridad
-- **Have I Been Pwned** – Herramienta gratuita de monitorización
-- **Todas las víctimas** que compartieron sus historias (anonimizadas)
-- **La comunidad** que reporta y combate el cibercrimen cada día
-
----
-
-## 📬 Contacto
-
-| Canal | Detalle |
-|-------|---------|
-| 🐙 **GitHub** | Condor2026 |
-| 🐦 **X / Twitter** | [Proximamente] |
-
-
----
-
-## 🏆 Proyecto en crecimiento
-
-<div align="center">
-
-**⭐ Si te ha gustado, ¡dale una estrella al repositorio!**
-
-[![GitHub stars](https://img.shields.io/github/stars/tu-usuario/ciberseguridad-para-humanos?style=social)](https://github.com/tu-usuario/ciberseguridad-para-humanos/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/tu-usuario/ciberseguridad-para-humanos?style=social)](https://github.com/tu-usuario/ciberseguridad-para-humanos/network/members)
-
-</div>
-
----
-
-<p align="center">
-  <strong>Condor2026 – Ciberseguridad para humanos</strong><br>
-  <em>"El mejor firewall eres tú cuando sabes cómo piensa el otro lado."</em>
-</p>
-```
-
----
-
-## 📌 Instrucciones de personalización
-
-Antes de publicar, cambia estas partes:
-
-1. **URLs de GitHub** → Cambia `tu-usuario` por tu nombre de usuario real
-2. **Contacto** → Pon tu email real o red social si quieres
-3. **Badges** → Si no tienes estrellas o forks, quita esas líneas o déjalas
-
----
+Disponible en: [[URL de GitHub]](https://github.com/Condor2026/EL-MERCADO-NEGRO-DE-TUS-DATOS)
