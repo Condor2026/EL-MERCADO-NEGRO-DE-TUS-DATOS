@@ -27,7 +27,7 @@
 
 ## 📌 ¿Qué es esto?
 
-**Ciberseguridad para humanos** es una serie de módulos educativos diseñados para **personas normales**, no para técnicos. Explicado en español, con ejemplos reales, historias de víctimas y acciones concretas que puedes aplicar hoy.
+**Ciberseguridad para humanos** es una serie de módulos educativos diseñados para **civiles**, con ejemplos reales, historias de víctimas y acciones concretas que puedes aplicar hoy.
 
 ---
 
