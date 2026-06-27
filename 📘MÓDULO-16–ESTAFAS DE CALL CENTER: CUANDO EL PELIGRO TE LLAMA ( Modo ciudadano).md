@@ -1,7 +1,7 @@
 # 📘 MÓDULO 16 – ESTAFAS DE CALL CENTER: CUANDO EL PELIGRO TE LLAMA ( Modo ciudadano)
 
 **Condor2026 – Ciberseguridad para humanos**  
-*Serie completa – Módulo 16 de 50*
+*Serie completa – Módulo 16 de 24*
 
 > *"El teléfono suena. La voz al otro lado suena profesional. Pero está entrenada para vaciarte la cuenta."*
 
