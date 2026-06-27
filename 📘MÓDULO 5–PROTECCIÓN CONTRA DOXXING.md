@@ -342,7 +342,7 @@ El doxxing es una de las experiencias más angustiosas en internet porque convie
 - **Alia2 Foundation** – ayuda a víctimas de acoso digital.
 
 ---
-
-**Condor2026** – Especialista en OSINT, privacidad digital y análisis de amenazas.
-
+**Condor2026** – **SpectrumSecurity** Especialista en OSINT, privacidad digital y análisis de amenazas.
+---
+*MÓDULO 5 de 24.*
 ---
