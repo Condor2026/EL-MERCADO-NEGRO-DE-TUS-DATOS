@@ -280,6 +280,7 @@ Tu nuevo protocolo:
 - **Google Reverse Image Search** – para comprobar fotos de perfil falsas.
 
 ---
-
-**Condor2026** – Especialista en OSINT, privacidad digital y análisis de amenazas.
-
+**Condor2026** – **SpectrumSecurity** - Especialista en OSINT, privacidad digital y análisis de amenazas.
+---
+*MÓDULO 2 de 24.*
+---
