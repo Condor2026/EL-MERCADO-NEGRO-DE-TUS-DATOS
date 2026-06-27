@@ -355,8 +355,7 @@ Educar a tu familia en ciberseguridad no es dar una charla de 2 horas. Es **crea
 - **WhatApp de alertas** (algunas comunidades autónomas tienen canales de avisos de estafas).
 
 ---
-
-**Condor2026l** – Especialista en OSINT, privacidad digital y análisis de amenazas.
-
+**Condor2026** – **SpectrumSecurity** - Especialista en OSINT, privacidad digital y análisis de amenazas.
 ---
-
+*MÓDULO 8 de 24.*
+---
