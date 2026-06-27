@@ -1,0 +1,338 @@
+# 📘 MÓDULO 7 – ESTAFAS FINANCIERAS Y DE INVERSIÓN: CÓMO RECONOCER UNA PIRÁMIDE, UN BRÓKER FALSO O UNA APP DE TRADING FRAUDULENTO
+
+**Condor2026 – Análisis de amenazas digitales**
+
+> *“Si alguien te garantiza rentabilidad, te está mintiendo. Si además te apura, te quiere robar.”*
+
+---
+
+## Índice
+
+1. Por qué las estafas financieras están en auge  
+2. Tipos principales de estafa financiera  
+- Esquemas piramidales (y su primo, el esquema Ponzi)  
+- Brókers y plataformas de trading falsas  
+- Apps de inversión con “señales ganadoras”  
+- Estafas de criptomonedas (pumping, wallets falsas, giveaways)  
+- Préstamos rápidos con pago adelantado  
+- Inversiones en productos ficticios (diamantes, vinos, terrenos)  
+3. Cómo operan: el gancho emocional y la ingeniería social financiera  
+4. Señales de alerta universales  
+5. Ejemplos reales anonimizados  
+- Caso 1: “Tu asesor de inversiones” de Instagram  
+- Caso 2: La app que mostraba ganancias falsas  
+- Caso 3: La pirámide disfrazada de “marketing multinivel”  
+6. Cómo investigar una empresa o bróker antes de invertir (OSINT financiero)  
+7. Simulaciones formativas: detecta la estafa antes de perder dinero  
+8. Qué hacer si ya caíste (o si crees que invertiste en algo falso)  
+9. Herramientas gratuitas para verificar  
+10. Ejercicios prácticos  
+11. Conclusión y recursos  
+
+---
+
+## 1. Por qué las estafas financieras están en auge
+
+Vivimos en una época de:
+- **Baja cultura financiera** (no se enseña en colegios).  
+- **FOMO** (miedo a quedarse fuera de ganancias rápidas, sobre todo con criptomonedas).  
+- **Facilidad de crear apps y webs** que parecen profesionales por poco dinero.  
+- **Redes sociales** donde cualquier estafador puede aparentar lujo y éxito.
+
+Los estafadores ya no se limitan a “príncipes nigerianos”. Ahora usan:
+- Anuncios en Instagram y Facebook.  
+- Grupos de Telegram con “analistas” falsos.  
+- Llamadas en frío de “brokers” muy convincentes.  
+- Aplicaciones que simulan trading real (pero tu dinero nunca llega al mercado).
+
+El resultado: miles de personas pierden sus ahorros cada año. Y la vergüenza hace que muchos no denuncien.
+
+---
+
+## 2. Tipos principales de estafa financiera
+
+### 2.1 Esquemas piramidales y Ponzi
+
+**Piramidal:** Te piden que invites a más gente. Ganas dinero por cada nuevo afiliado, no por vender un producto real. Cuando deja de entrar gente nueva, colapsa.
+
+**Ponzi:** Usan el dinero de nuevos inversores para pagar a los antiguos, simulando rentabilidad. No hay inversión real. Ejemplo histórico: Bernard Madoff.
+
+**Señales:**
+- Te incentivan mucho por reclutar amigos.  
+- El producto o servicio es difuso o inexistente.  
+- Las ganancias son siempre positivas (no hay pérdidas, lo cual es imposible en inversiones reales).  
+
+### 2.2 Brókers y plataformas de trading falsas
+
+Crean una web o app con gráficos en tiempo real, noticias, incluso atención al cliente. Pero tu dinero no llega al mercado real. Cuando intentas retirar, ponen excusas o desaparecen.
+
+**Señales:**
+- Te llaman insistentemente para que deposites más.  
+- Te muestran ganancias enormes en pocos días.  
+- Cuando pides retirar, te piden comisiones o impuestos adelantados.  
+- No están registrados en el organismo regulador de tu país (CNMV en España, SEC en EEUU, etc.).
+
+### 2.3 Apps de inversión con “señales ganadoras”
+
+Te venden un bot o un servicio de alertas que supuestamente te dice cuándo comprar/vender criptos, forex, etc.
+
+**Señales:**
+- Garantizan un porcentaje de acierto (ej: 90%).  
+- Muestran capturas de ganancias (fáciles de falsificar).  
+- Solo aceptan criptomonedas o métodos difíciles de reclamar.  
+
+### 2.4 Estafas de criptomonedas
+
+- **Fake giveaways:** “Elon Musk regala 1000 BTC. Envía 1 BTC y te devolvemos 10”.  
+- **Wallets falsas:** Una app que parece legítima, pero roba tus claves privadas.  
+- **Pumping groups:** Te meten en un grupo de Telegram, inflan una moneda sin valor, luego los creadores venden y tú pierdes.  
+
+### 2.5 Préstamos rápidos con pago adelantado
+
+Te ofrecen un préstamo fácil, sin aval, aunque estés en asnef. Pero te piden una “comisión de apertura” o “seguro”. Pagas y nunca ven el préstamo.
+
+### 2.6 Inversiones en productos ficticios
+
+Diamantes, vinos de bodega, terrenos en paraísos fiscales. Te venden algo que no existe o vale mucho menos. Usan documentos falsos y asesores muy educados.
+
+---
+
+## 3. Cómo operan: el gancho emocional y la ingeniería social financiera
+
+El proceso sigue un patrón:
+
+1. **Contacto inicial** (anuncio, mensaje en redes, llamada, amigo que te recomienda).  
+2. **Construcción de confianza** (perfil falso con fotos de lujo, testimonios inventados, gráficos bonitos).  
+3. **Primer depósito pequeño** (funciona, te devuelven ganancias para engancharte).  
+4. **Te piden más dinero** (para “apalancar”, “liberar fondos”, “pagar impuestos”).  
+5. **Problemas al retirar** (siempre una excusa: “tu cuenta está en revisión”, “necesitas depositar 500€ más para activar el retiro”).  
+6. **Desaparición** (cierra web, cambia número, te bloquea).
+
+Los estafadores estudian psicología:  
+- **Escasez** (“solo 10 plazas disponibles”).  
+- **Autoridad** (“somos un fondo regulado en Londres”).  
+- **Prueba social** (“mira estos testimonios de gente que ya ganó”).  
+- **Compromiso** (una vez depositas, te cuesta aceptar que fue un error).
+
+---
+
+## 4. Señales de alerta universales
+
+Si ves alguna de estas, sal de ahí:
+
+- [ ] **Garantía de rentabilidad fija** (“10% mensual garantizado” → las inversiones reales nunca garantizan).  
+- [ ] **Te apuran para decidir** (“oferta solo válida hoy”).  
+- [ ] **Te piden que invites a amigos** (esquema piramidal).  
+- [ ] **No puedes retirar tu dinero sin pagar más** (estafa segura).  
+- [ ] **No están registrados en el regulador oficial** (CNMV, SEC, FCA).  
+- [ ] **La web es reciente** (comprueba en whois.domaintools.com).  
+- [ ] **Prometen ganancias desorbitadas** (más del 2-3% mensual es sospechoso).  
+- [ ] **No hay dirección física clara** (solo un apartado de correos o un coworking).  
+- [ ] **El asesor tiene perfil falso** (búsqueda inversa de su foto).  
+- [ ] **Métodos de pago extraños** (solo criptomonedas, transferencias a cuentas personales, tarjetas regalo).
+
+---
+
+## 5. Ejemplos reales anonimizados
+
+### Caso 1: “Tu asesor de inversiones” de Instagram
+
+**Cómo empezó:** Una persona ve un anuncio de “María Fernández, asesora financiera”. El perfil tiene fotos con coches de lujo, viajes, y capturas de pantalla de ganancias. María le escribe por privado: “Tengo una señal de trading de oro con 95% de acierto. Deposita 250€ y empieza.”
+
+**Cómo sigue:** La víctima deposita 250€. Al día siguiente, la app muestra 400€. María le dice: “Si pones 1000€ más, puedes ganar 5000€ en una semana.” Deposita. La app muestra 6000€. Intenta retirar 1000€. La app pide una “comisión de retiro” de 300€. Paga. Luego le piden “impuestos” de 500€. Paga. Nunca ve su dinero. La web desaparece.
+
+**Señales que fallaron:** Perfil falso (la foto de María era de una modelo de banco de imágenes), promesa de rentabilidad altísima, comisiones para retirar.
+
+### Caso 2: La app que mostraba ganancias falsas
+
+**Cómo empezó:** Una app llamada “CryptoMax” (nombre ficticio) aparece en anuncios de YouTube. Tiene buenas reseñas (compradas). Promete 5% diario con un bot automático.
+
+**Cómo sigue:** La víctima descarga la app, deposita 100$ en Bitcoin. La app muestra 150$ al día siguiente. Deposita 5000$. La app sigue mostrando ganancias. Un mes después intenta retirar 20.000$. La app dice “error de verificación”. El soporte (chat) desaparece. La app aún está en la tienda de aplicaciones, pero las reseñas recientes son de víctimas.
+
+**Señales:** Rentabilidad imposible (5% diario son 1825% anual). Reseñas compradas (muchas de un mismo día y con lenguaje similar). App no registrada en ninguna regulación.
+
+### Caso 3: La pirámide disfrazada de “marketing multinivel”
+
+**Cómo empezó:** Un amigo le invita a una reunión de “empresa de bienestar”. Le explican que venden productos de salud, pero la verdadera ganancia está en reclutar a otros. Te pagan por cada persona que metas, y esas personas por las que metan ellos, etc.
+
+**Cómo sigue:** La víctima invierte 500€ en el “kit de inicio”. Vende algún producto, pero gana poco. Le insisten en que invite a más gente. Al final, la mayoría pierde dinero, solo ganan los primeros niveles.
+
+**Señales:** El enfoque no es el producto, sino el reclutamiento. Te piden que compres inventario. Las ganancias prometidas son por niveles (esquema de árbol).
+
+---
+
+## 6. Cómo investigar una empresa o bróker antes de invertir (OSINT financiero)
+
+Antes de poner un céntimo, haz esta investigación (10-15 minutos que te pueden ahorrar todo).
+
+### Paso 1 – Busca en el regulador oficial
+
+- **España:** CNMV (cnmv.es) → Sección “Inversores” → “Listado de entidades no autorizadas” (advertencias). También busca el nombre de la empresa en el registro de asesores financieros.  
+- **EEUU:** SEC (sec.gov) – EDGAR database.  
+- **Reino Unido:** FCA (fca.org.uk) – register.  
+
+Si no aparece, **no inviertas**.
+
+### Paso 2 – Comprueba la antigüedad del dominio
+
+Usa **whois.domaintools.com** o **lookup.icann.org**.  
+- Si el dominio se creó hace menos de 1 año y ya te prometen rentabilidad → sospechoso.  
+- Si el dominio expira en menos de 6 meses → pueden desaparecer pronto.  
+
+### Paso 3 – Busca opiniones reales (no las de su web)
+
+Busca en Google: `[nombre de la empresa] estafa` o `[nombre] scam` o `[nombre] opiniones reales`.  
+Busca en Reddit, Trustpilot (cuidado con las reseñas falsas), Forocoches, etc.  
+
+### Paso 4 – Analiza la web
+
+- ¿Hay faltas de ortografía?  
+- ¿La dirección física es un apartado de correos o un centro de negocios compartido? (Google Maps para ver si es real).  
+- ¿Los testimonios tienen fotos de stock? (búsqueda inversa en Google Images).  
+
+### Paso 5 – Investiga al asesor o contacto
+
+- Haz búsqueda inversa de su foto de perfil (Google Images, Yandex, TinEye).  
+- Busca su nombre completo + “estafa” o “scam”.  
+- Si te da un número de teléfono, búscalo en Google (puede aparecer en listas de estafadores conocidos).
+
+### Paso 6 – Comprueba métodos de pago
+
+Si solo aceptan criptomonedas, transferencia bancaria a una cuenta personal en un paraíso fiscal, o tarjetas regalo (Amazon, iTunes) → es 100% estafa.
+
+---
+
+## 7. Simulaciones formativas: detecta la estafa antes de perder dinero
+
+### Simulación 1 – El bróker que llama caliente
+
+**Escenario:** Recibes una llamada de “David López, asesor de inversiones de GlobalMarkets”. Suena profesional. Te dice que ha visto tu perfil de inversor (no tienes ninguno) y te ofrece una oportunidad única de invertir en petróleo con rentabilidad garantizada del 15% en 3 meses.
+
+**Tu tarea (en la simulación):** No aceptar nada. En lugar de eso, aplica la investigación: pide el nombre completo de la empresa, número de registro, dirección. Luego, sin colgar, busca en CNMV. Cuelga si ves que no está registrado.
+
+**Lección:** Las entidades serias no llaman a particulares ofreciendo inversiones no solicitadas.
+
+### Simulación 2 – El grupo de Telegram de “señales”
+
+**Escenario:** Un amigo te mete en un grupo de Telegram llamado “Gurús del Crypto”. Un administrador publica capturas de ganancias de 5000€ en un día. Ofrece un “bot vip” por 500€ al mes.
+
+**Tu tarea:** Analiza las capturas: ¿tienen fechas coherentes? ¿Los números de pantalla son consistentes? (A menudo las falsifican). Pregunta si pueden darte una prueba gratuita durante 1 semana. Si se niegan, es estafa. Si aceptan, simula que inviertes en una cuenta de pruebas (sin dinero real) y comprueba si las “señales” aciertan (normalmente son aleatorias).
+
+**Lección:** Quien tiene un sistema que gana dinero de verdad, no lo vende por 500€ al mes. Lo usa él mismo.
+
+### Simulación 3 – La pirámide disfrazada
+
+**Escenario:** Una conocida te invita a una reunión por Zoom. Te explican que por 300€ te haces “distribuidor” de una marca de café orgánico. Ganas 50€ por cada nuevo distribuidor que invites, y 10€ por cada distribuidor que invite tu invitado.
+
+**Tu tarea:** Dibuja el árbol de niveles. Calcula cuánta gente necesitas abajo para recuperar tu inversión (sin vender café). Si el negocio se basa en reclutar más que en vender producto, es pirámide.
+
+**Lección:** Pregunta: “¿Cuál es el porcentaje de personas que ganan dinero realmente?” (en pirámides, >90% pierde).
+
+---
+
+## 8. Qué hacer si ya caíste (o si crees que invertiste en algo falso)
+
+### Paso 1 – Deja de depositar dinero inmediatamente
+
+No pagues comisiones, impuestos ni nada para “liberar” tu dinero. Es una trampa para sacarte más.
+
+### Paso 2 – Recopila toda la evidencia
+
+- Capturas de pantalla de la web, app, conversaciones, emails.  
+- Números de teléfono, nombres de personas.  
+- Comprobantes de transferencia (hash de cripto, número de transferencia bancaria).  
+- Fechas y horas.
+
+### Paso 3 – Denuncia
+
+- **Policía Nacional / Guardia Civil** (en España) – delitos telemáticos.  
+- **CNMV** (si es un bróker falso, aunque no tengan jurisdicción, sirve para advertir a otros).  
+- **Fiscalía** si es una estafa piramidal grande.  
+- **Plataforma** (si fue por Instagram, Facebook, Telegram, denuncia el perfil).
+
+### Paso 4 – Advertir a otros
+
+- Publica una reseña en Trustpilot o en foros (sin datos personales) para que otros no caigan.  
+- Si fue un amigo quien te metió, explícale que es una estafa (quizás él también es víctima sin saberlo).
+
+### Paso 5 – Asumir la pérdida (con ayuda psicológica si es grave)
+
+Las estafas financieras generan mucha vergüenza y culpa. No estás solo. Habla con alguien. Muchas veces el dinero no se recupera, pero la lección puede salvarte de pérdidas mayores en el futuro.
+
+**IMPORTANTE:** Cuidado con las “empresas de recuperación de fondos” que aparecen después de una estafa. Suelen ser la misma banda que te roba por segunda vez.
+
+---
+
+## 9. Herramientas gratuitas para verificar
+
+| Herramienta | Uso | Enlace |
+|-------------|-----|--------|
+| **CNMV – Buscador de entidades no autorizadas** | Ver si el bróker está advertido | cnmv.es (Inversores > Advertencias) |
+| **Whois Domain Tools** | Antigüedad y propietario del dominio | whois.domaintools.com |
+| **Google Images / TinEye** | Búsqueda inversa de fotos de asesores | images.google.com |
+| **Trustpilot** | Opiniones de usuarios (con precaución) | trustpilot.com |
+| **Reddit** (subreddits como r/scams) | Buscar el nombre de la estafa | reddit.com |
+| **Wayback Machine** | Ver versiones antiguas de la web | archive.org |
+| **Have I Been Pwned** | Si te llegó por correo, ver si ese correo está filtrado | haveibeenpwned.com |
+| **Blockchain explorers** (Etherscan, Blockchain.com) | Rastrear movimientos de criptomonedas (si sabes la dirección) | etherscan.io |
+
+---
+
+## 10. Ejercicios prácticos
+
+### Ejercicio 1 – Investiga un bróker ficticio
+
+Te invento uno: “GlobalInvest Pro” (no existe, pero simula). Busca en Google, CNMV, Whois. ¿Qué señales encontrarías? (No existe en CNMV, dominio creado hace 4 meses, opiniones en Reddit diciendo “estafa”).
+
+### Ejercicio 2 – Analiza un anuncio de Instagram
+
+Abre Instagram. Busca algún anuncio de inversión o trading. Aplica las señales de alerta:  
+- ¿Garantizan rentabilidad?  
+- ¿Te apuran con “oferta limitada”?  
+- ¿El perfil tiene fotos de lujo genéricas?  
+
+Anota 3 razones para no confiar.
+
+### Ejercicio 3 – Simula la investigación de un asesor
+
+Pídele a un amigo que te dé el nombre de un “influencer financiero” real (puede ser uno legítimo o no). Tú investigas:  
+- ¿Aparece su nombre en CNMV o regulador?  
+- ¿Tiene historial de quejas?  
+- ¿Su foto de perfil es única o es de banco de imágenes?  
+
+Si es legítimo, será fácil encontrar su rastro profesional.
+
+### Ejercicio 4 – El test del “retiro”
+
+Si alguna vez consideras una inversión, aplica esta prueba mental: “¿Puedo retirar mi dinero en cualquier momento sin coste adicional?” Si la respuesta es no, no inviertas.
+
+### Ejercicio 5 – Charla con familiares mayores
+
+Explícales a tus padres o abuelos: “Si alguien te llama ofreciéndote invertir en algo, incluso si suena profesional, cuélgame y pregúntame a mí primero”. Practica un ejemplo con ellos.
+
+---
+
+## 11. Conclusión y recursos
+
+Las estafas financieras se aprovechan de la esperanza de la gente. No caen solo los “incautos”. Caen ingenieros, médicos, profesores… porque los estafadores invierten en psicología, diseño y persistencia.
+
+**Tu defensa no es ser un experto en finanzas. Es ser metódico:**
+
+1. **Desconfía de rentabilidades garantizadas.**  
+2. **Investiga siempre en el regulador oficial.**  
+3. **Nunca envíes dinero si antes no puedes retirar una pequeña cantidad de prueba.**  
+4. **No dejes que la urgencia decida por ti.**  
+5. **Si es demasiado bueno para ser verdad, es falso.**
+
+**Recursos adicionales:**
+
+- **CNMV – Lista de advertencias** (actualizada constantemente).  
+- **Estafa.info** (web colaborativa de denuncias en español).  
+- **Foro de estafas financieras en Forocoches** (con casos reales).  
+- **Better Business Bureau** (para EEUU y Canadá).  
+- **FCA Warning List** (Reino Unido).
+
+---
+
+**Condor2026** – Especialista en OSINT, privacidad digital y análisis de amenazas.
+
