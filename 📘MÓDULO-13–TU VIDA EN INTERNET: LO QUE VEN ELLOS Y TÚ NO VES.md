@@ -1,7 +1,7 @@
 # 📘 MÓDULO 13 – TU VIDA EN INTERNET: LO QUE VEN ELLOS Y TÚ NO VES
 
 **Condor2026 – Ciberseguridad para humanos**  
-*Serie completa – Módulo 13 de 20
+*Serie completa – Módulo 13 de 24
 
 > *"No puedes proteger lo que no sabes que estás mostrando."*
 
