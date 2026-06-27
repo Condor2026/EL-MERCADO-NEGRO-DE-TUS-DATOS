@@ -482,8 +482,7 @@ Si haces eso, ya estás por encima del 90% de la población y le pones muy difí
 - **Mozilla Foundation – Privacy not included** – analiza dispositivos y apps.
 
 ---
-
-**Condor2026** – Especialista en OSINT, privacidad digital y análisis de amenazas.
-
+**Condor2026** – **SpectrumSecurity** - Especialista en OSINT, privacidad digital y análisis de amenazas.
 ---
-
+*MÓDULO 7 de 24.*
+---
