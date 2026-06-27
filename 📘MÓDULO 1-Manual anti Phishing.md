@@ -290,8 +290,7 @@ Tu defensa no es ser paranóico. Es ser **metódico**:
 Y si quieres ir un paso más allá, **aprende a reconocer cómo se simulan estos ataques** en entornos profesionales. Ese conocimiento rompe la magia del engaño.
 
 ---
-
-**Condor2026**  
-Especialista en OSINT, privacidad digital y análisis de amenazas.  
-
+**Condor2026** - **SpectrumSecurity** - Especialista en OSINT, privacidad digital y análisis de amenazas.  
+---
+*MÓDULO 1 de 24.*
 ---
