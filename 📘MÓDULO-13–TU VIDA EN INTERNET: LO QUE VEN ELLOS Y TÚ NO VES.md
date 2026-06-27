@@ -478,9 +478,7 @@ En el **Módulo 14** (4 de la serie ciudadano) vamos a hablar de **contraseñas 
 **No te lo pierdas. Porque tus datos ya están en el mercado negro. La única llave que evita que los usen es la que aprenderás a proteger en el próximo módulo.**
 
 ---
-
-**Condor2026** – Ciberseguridad para humanos.  
-
-*Módulo 13.
-
+**Condor2026** – **SpectrumSecurity**
+---
+*Módulo 13 de 24.*
 ---
