@@ -406,7 +406,7 @@ Tener un plan de respuesta a incidentes es como tener un seguro de hogar: espera
 - **Línea de ayuda para víctimas de ciberdelitos:** 017 (en España) o tu policía local.
 
 ---
-
-**Condor2026** – Especialista en OSINT, privacidad digital y análisis de amenazas.
-
+**Condor2026** – **SpectrumSecurity** - Especialista en OSINT, privacidad digital y análisis de amenazas.
+---
+*MÓDULO 9 de 24.*
 ---
