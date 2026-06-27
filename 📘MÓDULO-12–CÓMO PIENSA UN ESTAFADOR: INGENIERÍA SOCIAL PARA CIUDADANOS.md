@@ -597,9 +597,9 @@ Imprime este recuadro y pégalo junto al teléfono fijo o en la nevera:
 4. Usa la experiencia para entrenarte y entrenar a otros.
 
 ---
-
-**Condor2026** – Ciberseguridad para humanos.
-
+**Condor2026** – **SpectrumSecurity**
+---
 *"Los estafadores estudian psicología. Tú también puedes."*
-
+---
+*MÓdulo 12 de 24.*
 ---
