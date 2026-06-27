@@ -363,7 +363,7 @@ Tu huella digital es como una fotografía de tu vida en internet. Puede ser borr
 - **Mozilla Foundation:** “Privacy not included”.
 
 ---
-
-**Condor2026** – Especialista en OSINT, privacidad digital y análisis de amenazas.
-
+**Condor2026** – **SpectrumSecurity** Especialista en OSINT, privacidad digital y análisis de amenazas.
+---
+*MÓDULO 3 de 24.*
 ---
