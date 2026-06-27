@@ -423,5 +423,7 @@ Explícales a tus padres o hijos qué es una combolist y por qué no deben reuti
 5. No te culpes. El sistema está diseñado para que falles. Ahora estás más preparado.
 
 ---
-
-**Condor2026** – Ciberseguridad para humanos.
+**Condor2026** – **SpectrumSecurity**
+---
+*MÓDULO 11 de 24.*
+---
