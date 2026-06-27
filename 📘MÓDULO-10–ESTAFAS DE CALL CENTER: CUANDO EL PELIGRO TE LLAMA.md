@@ -365,28 +365,9 @@ Las estafas de call center no van a desaparecer. Cada año son más sofisticadas
 - **Foro de estafas telefónicas en Burbuja.info** – casos reales.
 
 ---
-
-**Panda_Intel** – Especialista en OSINT, privacidad digital y análisis de amenazas.
-
+**Condor2026** - **SpectrumSecurity** – Especialista en OSINT, privacidad digital y análisis de amenazas.
 ---
-
-## Cierre de la serie
-
-Hemos completado los 10 módulos principales:
-
-1. Phishing (correos, SMS, QR)  
-2. Ingeniería social (el arte de la confianza robada)  
-3. OSINT defensivo (tu huella digital)  
-4. Análisis de malware para no expertos  
-5. Protección contra doxxing  
-6. OpSec para personas normales  
-7. Estafas financieras y de inversión  
-8. Cómo educar a tu familia sin asustarlos  
-9. Respuesta a incidentes para particulares  
-10. Estafas de call center
-
-Cada módulo está pensado para ser un manual independiente que puedas publicar en tu web, canal de Telegram, o imprimir como PDF. Todos mantienen el mismo estilo: práctico, ético, sin miedo, y con ejercicios reales.
-
-Si quieres, podemos seguir ampliando con módulos adicionales (por ejemplo, “Seguridad para autónomos”, “Protección de menores en juegos online”, “Cómo usar Tor sin paranoia”, etc.). Solo tienes que decirlo.
-
-**Condor2026** – Siempre anticipándose.
+Siempre anticipándose.
+---
+*MÓDULO 10 de 24.*
+---
