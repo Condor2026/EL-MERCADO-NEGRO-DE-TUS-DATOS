@@ -442,7 +442,7 @@ Te contaré la historia del ingeniero que perdió 80.000€ en una "inversión g
 **No te lo pierdas. Porque el dinero que tanto te ha costado ganar puede desaparecer en minutos si no sabes identificar las señales.**
 
 ---
-
-**Condor2026** – Ciberseguridad para humanos.  
+**Condor2026** – **SpectrumSecurity**
+---
 *Módulo 14 de 24.*
 ---
